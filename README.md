@@ -1,1 +1,2 @@
-# git-identity-labJunior dev adding a cool feature
+# git-identity-lab
+Junior dev adding a cool feature
